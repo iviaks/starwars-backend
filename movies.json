@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Solo: A Star Wars Story",
+    "description": "Board the Millennium Falcon and journey to a galaxy far, far away in Solo: A Star Wars Story, an all-new adventure with the most beloved scoundrel in the galaxy. Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian, in a journey that will set the course of one of the Star Wars saga’s most unlikely heroes. Solo: A Star Wars Story releases in U.S. Theaters on May 25, 2018.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/solo-theatrical-poster-1000_27861ab7.jpeg",
+    "characters": ["Woody Harrelson", "Thandie Newton"]
+  },
+  {
+    "name": "Star Wars: Episode VIII The Last Jedi",
+    "description": "With the destruction of the Republic, the evil First Order reigns. Now, Supreme Leader Snoke looks to crush what's left of the Resistance and cement his grip on the galaxy. But hope survives: Rey has found Luke Skywalker, a legendary Jedi Master who can change the tide of war.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/the-last-jedi-theatrical-poster-tall-a_6a776211.jpeg",
+    "characters": ["Billie Lourd", "Amanda Lawrence", "Oscar Isaac"]
+  },
+  {
+    "name": "Rogue One: A Star Wars Story",
+    "description": "From Lucasfilm comes the first of the Star Wars standalone films, “Rogue One: A Star Wars Story,” an all-new epic adventure. In a time of conflict, a group of unlikely heroes band together on a mission to steal the plans to the Death Star, the Empire’s ultimate weapon of destruction. This key event in the Star Wars timeline brings together ordinary people who choose to do extraordinary things, and in doing so, become part of something greater than themselves.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/rogueone_onesheeta_8a255456.jpeg",
+    "characters": []
+  },
+  {
+    "name": "Star Wars: Episode VII The Force Awakens",
+    "description": "Thirty years after the defeat of the Empire, Luke Skywalker has vanished and a new threat has risen: The First Order, led by the mysterious Supreme Leader Snoke and his dark side enforcer, Kylo Ren. General Leia Organa’s military force, the Resistance — and unlikely heroes brought together by fate — are the galaxy’s only hope at thwarting a new reign of evil.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/avco_payoff_1-sht_v7_lg_32e68793.jpeg",
+    "characters": ["Billie Lourd", "Amanda Lawrence", "Oscar Isaac"]
+  },
+  {
+    "name": "Star Wars: Episode VI Return of the Jedi",
+    "description": "Luke Skywalker heads a mission to rescue Han Solo from the clutches of Jabba the Hutt, and faces Darth Vader one last time.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Return-Jedi-VI-Poster_a10501d2.jpeg",
+    "characters": []
+  }
+]
